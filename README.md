@@ -1,17 +1,17 @@
 
 MIT/Public Commons Licensed
 
-# C64_BASIC_INTERPRETER
+# C64_BASIC_INTERPRETER(1)
 
-
+## NAME
 
 c64_basic_interpreter - Commodore 64 BASIC V2 interpreter written in AILang
 
+## SYNOPSIS
 
-
-
+```
 ./c64_basic_interpreter_exec
-
+```
 
 ## DESCRIPTION
 
@@ -256,7 +256,7 @@ BACKSPACE   Delete character
 
 ## TECHNICAL DETAILS
 
-- **Binary size**: ~66KB standalone executable
+- **Binary size**: ~140KB standalone executable
 - **Dependencies**: None (no libc)
 - **Syscalls**: read, write, open, close, exit, brk
 - **Memory model**: Dynamic allocation via brk()
@@ -271,6 +271,10 @@ Built with AILang - a language designed for LLM-assisted systems programming.
 - AILang compiler documentation
 - Original Commodore 64 Programmer's Reference Guide
 - Dave Plummer's BASIC interpreter challenge
+
+## VERSION
+
+1.0 - December 2024
 
 ## VERSION
 
