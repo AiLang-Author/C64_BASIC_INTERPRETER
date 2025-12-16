@@ -274,8 +274,8 @@ Built with AILang - a language designed for LLM-assisted systems programming.
 
 ## VERSION
 
-1.0 - December 2024
+1.0 - December 2025
 
 ## VERSION
 
-1.0 - December 2024
+1.0 - December 2025
