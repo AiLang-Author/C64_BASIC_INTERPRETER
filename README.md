@@ -10,7 +10,7 @@ c64_basic_interpreter - Commodore 64 BASIC V2 interpreter written in AILang
 ## SYNOPSIS
 
 ```
-./c64_basic.c
+./c64basic.x  "may required sudo or chmod"
 ```
 
 ## DESCRIPTION
