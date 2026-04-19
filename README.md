@@ -1,4 +1,4 @@
-
+# Project has been moved to >>> https://github.com/AiLang-Author/Ailang-Self-Hosting-
 MIT/Public Commons Licensed
 
 # C64_BASIC_INTERPRETER(1)
